@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419120908981",
+    "project_id": "ridea-1a51d",
+    "storage_bucket": "ridea-1a51d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419120908981:android:257ccb9081c204e7990cfc",
+        "android_client_info": {
+          "package_name": "com.example.go_pride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419120908981-0n8it3ta411edq3es7qo6ap6smavg7eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzh7wg9fpc3zwOfM5rMzR3aK7Ir3PptE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419120908981-0n8it3ta411edq3es7qo6ap6smavg7eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
